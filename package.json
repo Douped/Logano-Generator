@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Douped/Logo-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.6"
+    "inquirer": "^8.2.4"
   }
 }
