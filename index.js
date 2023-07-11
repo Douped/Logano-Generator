@@ -1,5 +1,4 @@
 const inquirer = require("inquirer");
-const { generateLogo } = require("./lib/generateLogo");
 const { Circle, Triangle, Square } = require("./lib/shapes");
 const Svg = require("./lib/svg");
 const fs = require("fs");
